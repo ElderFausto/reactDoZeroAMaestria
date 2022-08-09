@@ -1,0 +1,19 @@
+{
+  "products": [
+    {
+      "name": "monitor",
+      "price": "100",
+      "id": 1
+    },
+    {
+      "name": "bolsa",
+      "price": "40",
+      "id": 2
+    },
+    {
+      "name": "cadeira",
+      "price": "300",
+      "id": 3
+    }   
+  ]
+}
