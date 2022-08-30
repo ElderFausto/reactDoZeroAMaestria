@@ -18,13 +18,12 @@ function App() {
             <Link to="/about">About</Link>
           </li>
           <li>
-            <Link to='/contato'>Contato</Link>
+            <Link to="/contato">Contato</Link>
           </li>
         </ul>
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/about" element={<About />} />
-          
         </Routes>
       </HookUseContext>
     </div>

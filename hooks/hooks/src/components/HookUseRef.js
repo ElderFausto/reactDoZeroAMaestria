@@ -42,6 +42,8 @@ const HookUseRef = () => {
         />
         <input type="submit" value="enviar" />
       </form>
+      <br />
+      <hr />
     </div>
   );
 };
